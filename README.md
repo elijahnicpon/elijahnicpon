@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elijahnicpon
+- 👀 I’m interested in Data Science and Analytics with Python & R
+- 🌱 I’m currently pursuing an undergraduate degree in Industrial Engineering at Georgia Tech (Class of 2025)
+- 💞️ I’m looking to collaborate on literally anything fun
+- 📫 How to reach me: elijah@nicpon.com; https://www.linkedin.com/in/elijah-nicpon-a85278209
