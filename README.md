@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elijahnicpon
-- 👀 I’m interested in Software Engineering and Cybersecurity
-- 🌱 I’m currently pursuing an undergraduate degree in Computer Science at Georgia Tech (Class of 2025)
-- 📫 How to reach me: elijah@nicpon.com; www.linkedin.com/in/elijah-nicpon/
+- 👋 Hi, I’m @elijahnicpon. I also go by Lijah.
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently pursuing an undergraduate degree in Computer Science at Georgia Tech (Graduating December 2024)
+- 📫 How to reach me: [elijah@nicpon.com](mailto:elijah@nicpon.com); [www.linkedin.com/in/elijah-nicpon/](www.linkedin.com/in/elijah-nicpon/)
